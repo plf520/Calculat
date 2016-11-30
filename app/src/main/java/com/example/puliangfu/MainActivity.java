@@ -13,7 +13,7 @@ import java.math.BigDecimal;
 public class MainActivity extends Activity{
 
     /*
-    *组件定义
+    *组件定义yugygyuygu
      */
     private Button b_0,b_1,b_2,b_3,b_4,b_5,b_6,b_7,b_8,b_9,b_dian,b_jia,b_jian,b_cheng,
             b_chu,b_c,b_deng,b_xiao;
